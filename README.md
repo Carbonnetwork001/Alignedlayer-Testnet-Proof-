@@ -1,2 +1,1 @@
-# Alignedlayer-Testnet-Proof-
-Alignedlayer-Testnet-Proof
+sudo apt-get install curl -y
